@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=vendor_moto_shamu.git
+defaultbranch=mm6.0
